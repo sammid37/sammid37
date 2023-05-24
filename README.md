@@ -58,4 +58,5 @@ if motivation is True:
 [![Email: samanthadmedeiros37@gmail.com](https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:samanthadmedeiros37@gmail.com)](mailto:samanthadmedeiros37@gmail.com)
 [![Ko-Fi: sammid37](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sammid37)
 [![Pinterest: sammid37](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://br.pinterest.com/sammid37/)
+[![Medium: @sammid37](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sammid37)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](#)
